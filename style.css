@@ -1,0 +1,12 @@
+.navbar-toggler {
+  background-color: aliceblue;
+}
+
+.nav-link:hover {
+  transform: 1s;
+  color: rgb(156, 128, 128) !important;
+}
+
+.navbar-brand:hover {
+  color: rgb(156, 128, 128) !important;
+}
